@@ -1151,6 +1151,7 @@ body {
     padding-top: 60px;
     transition: left 0.4s cubic-bezier(0.4, 0, 0.2, 1);
     z-index: 999;
+    text-align: center;
   }
   
   .nav-menu.active {
@@ -1175,6 +1176,10 @@ body {
     border-radius: 12px;
     transition: all 0.3s ease;
     border: 1px solid transparent;
+    display: block;
+    text-align: center;
+    width: 100%;
+    max-width: 300px;
   }
   
   .nav-menu a:hover {

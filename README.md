@@ -26,17 +26,11 @@ O portfólio foi desenvolvido com abordagem mobile-first e possui 5 breakpoints:
 
 ### 🏠 Home
 
-- Apresentação pessoal com foto
-- Efeito de digitação no nome
-- Links para redes sociais
-- Descrição profissional
-
 ### 👨‍💻 Sobre
 
-- Biografia detalhada
-- Estatísticas profissionais
-- Habilidades técnicas organizadas em cards
-- Experiência e formação
+### 📅 Projetos
+
+### 📞 Contato
 
 ## 📄 Licença
 
